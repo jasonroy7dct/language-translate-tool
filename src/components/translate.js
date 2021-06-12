@@ -39,7 +39,7 @@ export default ({ language, text }) => {
 
   return (
     <div>
-      <label className="label">Result</label>
+      <label className="label">Output</label>
       <h1 className="title">{translated}</h1>
     </div>
   );
