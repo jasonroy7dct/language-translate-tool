@@ -15,7 +15,7 @@ const LANGUAGES = [
   { label: "Simplified Chinese", value: "zh-CN" },
   { label: "Spanish", value: "es" },
   { label: "Swahili", value: "sw" },
-  { label: "Taiwan", value: "zh-tw" },
+  { label: "Taiwan", value: "zh-TW" },
   { label: "Thai", value: "th" }
 ];
 
